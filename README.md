@@ -49,7 +49,7 @@ Alternative for Windows
 
 - Create an empty folder. If inside the repo, you can run:
   - `cp -r projects/example/ projects/my-new-project`
-- Fill in the `prompt` file in your new folder
+- Fill in the `prompt` file in your new folder.
 - `gpt-engineer projects/my-new-project`
   - (Note, `gpt-engineer --help` lets you see all available options. For example `--steps use_feedback` lets you improve/fix code in a project)
 
